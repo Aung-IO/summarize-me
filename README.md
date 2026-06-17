@@ -1,6 +1,6 @@
 # summarize-me
 
-[![skills.sh](https://skills.sh/b/Aung-IO/summerize-me)](https://skills.sh/Aung-IO/summerize-me)
+[![skills.sh](https://skills.sh/b/Aung-IO/summarize-me)](https://skills.sh/Aung-IO/summarize-me)
 
 Daily work-memory summaries for AI-assisted developers.
 
@@ -9,7 +9,7 @@ Daily work-memory summaries for AI-assisted developers.
 ## Install
 
 ```sh
-npx skills add Aung-IO/summerize-me
+npx skills add Aung-IO/summarize-me
 ```
 
 ## Command
